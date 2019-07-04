@@ -8,3 +8,5 @@ Original xmind files are uploaded.
 ![How_to_model_services](./images/chapter3.png)
 ## Chapter 4. Integration
 ![Integration](./images/chapter4.png)
+## Chapter 5. Splitting the Monolith
+![Splitting the Monolith](./images/chapter5.png)
