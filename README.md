@@ -13,3 +13,5 @@ This chapter is not very easy to summarize since that the topic "Splitting the M
 ![Splitting the Monolith](./images/chapter5.png)
 ## Chapter 6. Deployment
 ![Deployment](./images/chapter6.png)
+## Chapter 7. Testing
+![Testing](./images/chapter7.png)
